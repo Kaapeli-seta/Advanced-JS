@@ -1,7 +1,7 @@
 'use strict';
 
 
-import { restaurantModal, restaurantRow } from './Componetn.js';
+import { restaurantModal, restaurantRow } from './componetn.js';
 import {fetchData} from './fetchData.js'
 import { apiURL } from './variable.js';
 
